@@ -1,4 +1,11 @@
 @media (max-width: 384px) {
+    html body h1,
+    html .main-content h3,
+    .graduates-section .graduates-section-text h1,
+    html .routine-section>h1 {
+        font-family: italic;
+        font-size: 3rem;
+    }
     html {
         .routine-imgs {
 
