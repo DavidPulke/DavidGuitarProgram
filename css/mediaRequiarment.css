@@ -51,6 +51,15 @@
 
 }
 
+@media (min-width: 383px) and (max-width:385px) {
+    html #graduates-section img[src="./Gallery/audience.jpg"] {
+        margin-left: 33%;
+        width: 15rem;
+        height: 15rem;
+        margin-top: -49.5rem;
+    }
+}
+
 @media (max-width: 350px) {
     html body .classTime .phoneTime {
         font-size: 0.6rem;
